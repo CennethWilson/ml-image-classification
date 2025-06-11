@@ -1,10 +1,10 @@
-# Iris Classifier
+# ML Image Classification
 
 ---
 
 ## ℹ️ About the Project
 
-**Iris Classifier** is project that analyzes:
+**ML Image Classification** is project that analyzes:
 
 - Tuition Fees Distribution
 - Average Tuition Fees per Country
