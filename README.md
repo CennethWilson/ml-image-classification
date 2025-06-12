@@ -6,12 +6,11 @@
 
 **ML Image Classification** is project that analyzes:
 
-- Tuition Fees Distribution
-- Average Tuition Fees per Country
-- Living Cost vs Tuition
-- Tuition Fees Distribution by Program
-- Correlation Between Cost Components
-- Global Map of Annual Study Abroad
+- Classify Cat Images based on Species and evaluates Accuracy, Training Time, and Testing Time, using:
+  - fastAI
+  - CNN with raw image input
+  - CNN with cropped image input
+  - YOLO11 (Ultralytics)
 
 ---
 
@@ -20,12 +19,16 @@
 - [Python](https://www.python.org/) — primary programming language
 - [PyCharm](https://www.jetbrains.com/pycharm/) — IDE
 
+- [Scikit-learn](https://scikit-learn.org/stable/) — machine learning
+- [TensorFlow](https://www.tensorflow.org/) — Keras dependecies
+- [PyTorch](https://pytorch.org/) — 
 - [Pandas](https://pandas.pydata.org/) — data manipulation
 - [NumPy](https://numpy.org/) — number operations
 - [Matplotlib](https://matplotlib.org/) — plotting
 - [Seaborn](https://seaborn.pydata.org/) — data visualization
-- [SciPy](https://scipy.org/) — linear regression
-- [GeoPandas](https://geopandas.org/en/stable/) — map data
+- [fastAI](https://www.fast.ai/) — fastAI model
+- [Keras](https://keras.io/) — CNN model
+- [Ultralytics](https://www.ultralytics.com/) - YOLO11 and YOLO5 model
 
 ---
 
@@ -71,6 +74,11 @@ To run the project locally, you'll need:
 ![Alt text](Figure_4.png?raw=true "Title")
 ![Alt text](Figure_5.png?raw=true "Title")
 ![Alt text](Figure_6.png?raw=true "Title")
+![Alt text](Figure_7.png?raw=true "Title")
+![Alt text](Figure_8.png?raw=true "Title")
+![Alt text](Figure_9.png?raw=true "Title")
+![Alt text](Figure_10.png?raw=true "Title")
+![Alt text](Figure_11.png?raw=true "Title")
 
 ## 📃 License
 
