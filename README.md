@@ -68,17 +68,17 @@ To run the project locally, you'll need:
 
 ## 📊 Results
 
-![Alt text](Figure_1.png?raw=true "Title")
-![Alt text](Figure_2.png?raw=true "Title")
-![Alt text](Figure_3.png?raw=true "Title")
-![Alt text](Figure_4.png?raw=true "Title")
-![Alt text](Figure_5.png?raw=true "Title")
-![Alt text](Figure_6.png?raw=true "Title")
-![Alt text](Figure_7.png?raw=true "Title")
-![Alt text](Figure_8.png?raw=true "Title")
-![Alt text](Figure_9.png?raw=true "Title")
-![Alt text](Figure_10.png?raw=true "Title")
-![Alt text](Figure_11.png?raw=true "Title")
+![Alt text](Figure_1.jpg?raw=true "Title")
+![Alt text](Figure_2.jpg?raw=true "Title")
+![Alt text](Figure_3.jpg?raw=true "Title")
+![Alt text](Figure_4.jpg?raw=true "Title")
+![Alt text](Figure_5.jpg?raw=true "Title")
+![Alt text](Figure_6.jpg?raw=true "Title")
+![Alt text](Figure_7.jpg?raw=true "Title")
+![Alt text](Figure_8.jpg?raw=true "Title")
+![Alt text](Figure_9.jpg?raw=true "Title")
+![Alt text](Figure_10.jpg?raw=true "Title")
+![Alt text](Figure_11.jpg?raw=true "Title")
 
 ## 📃 License
 
