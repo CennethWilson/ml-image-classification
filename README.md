@@ -9,7 +9,7 @@
 - Classify Cat Images based on Species and evaluates Accuracy, Training Time, and Testing Time, using:
   - fastAI
   - CNN with raw image input
-  - CNN with cropped image input
+  - CNN with cropped image input (though YOLO5)
   - YOLO11 (Ultralytics)
 
 ---
