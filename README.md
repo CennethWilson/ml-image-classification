@@ -21,7 +21,6 @@
 
 - [Scikit-learn](https://scikit-learn.org/stable/) — machine learning
 - [TensorFlow](https://www.tensorflow.org/) — Keras dependecies
-- [PyTorch](https://pytorch.org/) — 
 - [Pandas](https://pandas.pydata.org/) — data manipulation
 - [NumPy](https://numpy.org/) — number operations
 - [Matplotlib](https://matplotlib.org/) — plotting
